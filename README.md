@@ -1,2 +1,2 @@
 # cuddly-waffle-test
-Test site
+Deployed at: https://dianastebbins.github.io/cuddly-waffle-test/
